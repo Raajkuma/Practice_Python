@@ -1,0 +1,6 @@
+2026/10/01-12:51:11.672 62d8 Creating DB C:\Users\Raajkumar\Projects\python-projeccts\Practice_Python\automation\playwright_pkg\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/10/01-12:51:11.679 62d8 Reusing MANIFEST C:\Users\Raajkumar\Projects\python-projeccts\Practice_Python\automation\playwright_pkg\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/01-12:51:14.186 28ec Level-0 table #5: started
+2026/10/01-12:51:14.189 28ec Level-0 table #5: 9110 bytes OK
+2026/10/01-12:51:14.192 28ec Delete type=0 #3
+2026/10/01-12:51:14.193 62d8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

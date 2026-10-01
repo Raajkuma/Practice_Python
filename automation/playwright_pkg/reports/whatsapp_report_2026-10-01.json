@@ -1,0 +1,53 @@
+{
+  "report": {
+    "run_date": "2026-10-01",
+    "run_started_at": "2026-10-01T14:14:44",
+    "total_contacts": 2,
+    "processed": 2,
+    "sent": 2,
+    "not_found": 0,
+    "failed": 0,
+    "messages_extracted_for": 1,
+    "fatal_error": "",
+    "input_file": "C:\\Users\\Raajkumar\\Projects\\python-projeccts\\Practice_Python\\automation\\playwright_pkg\\contacts.xlsx",
+    "json_report": "C:\\Users\\Raajkumar\\Projects\\python-projeccts\\Practice_Python\\automation\\playwright_pkg\\reports\\whatsapp_report_2026-10-01.json",
+    "excel_report": "C:\\Users\\Raajkumar\\Projects\\python-projeccts\\Practice_Python\\automation\\playwright_pkg\\reports\\whatsapp_report_2026-10-01.xlsx"
+  },
+  "results": [
+    {
+      "index": 1,
+      "name": "Monisha❤️",
+      "phone": "9962482811",
+      "dialed_number": "919962482811",
+      "message_template": "",
+      "personalized_message": "Hello Monisha❤️, this is your daily update. Please let me know if you need anything.",
+      "status": "Sent",
+      "sent_at": "2026-10-01T14:15:02",
+      "screenshot": "C:\\Users\\Raajkumar\\Projects\\python-projeccts\\Practice_Python\\automation\\playwright_pkg\\screenshots\\2026-10-01\\001_Monisha❤️.png",
+      "last_3_messages": [
+        "[10:30 pm, 30/09/2026] Check out this product I found on Nykaa: Bioderma Pigmentbio Foaming Cream Brightening Exfoliating Cleanser https://www.nykaa.com/bioderma-pigmentbio-foaming-cream-brightening-exfoliating-cleanser/p/1167459?se=0",
+        "[10:31 pm, 30/09/2026] Need to order this"
+      ],
+      "extraction_note": "",
+      "warning": "",
+      "extraction_error": "",
+      "error": ""
+    },
+    {
+      "index": 2,
+      "name": "you",
+      "phone": "8220486799",
+      "dialed_number": "918220486799",
+      "message_template": "",
+      "personalized_message": "Hello you, this is your daily update. Please let me know if you need anything.",
+      "status": "Sent",
+      "sent_at": "2026-10-01T14:15:29",
+      "screenshot": "C:\\Users\\Raajkumar\\Projects\\python-projeccts\\Practice_Python\\automation\\playwright_pkg\\screenshots\\2026-10-01\\002_you.png",
+      "last_3_messages": [],
+      "extraction_note": "Chat opened, but this contact has not sent any messages (nothing to extract).",
+      "warning": "",
+      "extraction_error": "",
+      "error": ""
+    }
+  ]
+}
