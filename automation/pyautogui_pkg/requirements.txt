@@ -1,0 +1,7 @@
+pyautogui
+pyscreeze
+pillow
+pytesseract
+pyperclip
+pandas
+openpyxl
